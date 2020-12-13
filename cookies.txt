@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.getbootstrap.com	TRUE	/	FALSE	1999999999	__cfduid	d1341c79279db4641b526a4e16e0f03af1607768175
+themes.getbootstrap.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+themes.getbootstrap.com	TRUE	/	FALSE	1999999999	dokan_product_viewed	4231
+

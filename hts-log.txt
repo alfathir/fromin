@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 12 Dec 2020 17:11:56 at http://htmlstream.com/front-dashboard/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y http://htmlstream.com/front-dashboard/index.html -O1 "C:\script\dashbootstrap" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:26:27	Error: 	"Not Found" (404) at link https://htmlstream.com/front-dashboard/assets/css/images/layers.png (from https://htmlstream.com/front-dashboard/assets/css/vendor.min.css)
+17:26:27	Error: 	"Not Found" (404) at link https://htmlstream.com/front-dashboard/assets/css/images/layers-2x.png (from https://htmlstream.com/front-dashboard/assets/css/vendor.min.css)
+17:26:27	Error: 	"Not Found" (404) at link https://htmlstream.com/front-dashboard/assets/css/images/marker-icon.png (from https://htmlstream.com/front-dashboard/assets/css/vendor.min.css)
+17:26:43	Error: 	"Not Found" (404) at link https://htmlstream.com/front-dashboard/ecommerce-product-description.html (from https://htmlstream.com/front-dashboard/ecommerce.html)
+17:26:43	Error: 	"Not Found" (404) at link https://htmlstream.com/front-dashboard/assets/svg-src/illustrations/project-schedule.svg (from https://htmlstream.com/front-dashboard/projects-timeline.html)
+17:27:50	Error: 	"Not Found" (404) at link https://htmlstream.com/front-dashboard/layouts/projects.html (from https://htmlstream.com/front-dashboard/layouts/demo-layouts-default-classic.html)
+17:27:50	Error: 	"Not Found" (404) at link https://htmlstream.com/front-dashboard/kanban.html (from https://htmlstream.com/front-dashboard/layouts/sidebar-combinations-mini-plus-one-cols.html)
+17:27:50	Error: 	"Not Found" (404) at link https://htmlstream.com/front-dashboard/layouts.html (from https://htmlstream.com/front-dashboard/layouts/sidebar-combinations-mini-plus-one-cols.html)
+17:27:50	Error: 	"Not Found" (404) at link https://htmlstream.com/front-dashboard/layouts/project.html (from https://htmlstream.com/front-dashboard/layouts/sidebar-combinations-mini-plus-one-cols.html)
+17:27:50	Error: 	"Not Found" (404) at link https://htmlstream.com/front-dashboard/documentation/step-form.html (from https://htmlstream.com/front-dashboard/documentation/changelog.html)
+17:27:50	Error: 	"Not Found" (404) at link https://htmlstream.com/front-dashboard/documentation/hs-unfold.js (from https://htmlstream.com/front-dashboard/documentation/dropdowns.html)
+17:27:50	Error: 	"Not Found" (404) at link https://htmlstream.com/front-dashboard/documentation/user-profile.html (from https://htmlstream.com/front-dashboard/documentation/page-header.html)
+17:27:50	Error: 	"Not Found" (404) at link https://htmlstream.com/front-dashboard/documentation/hs-mega-menu.html (from https://htmlstream.com/front-dashboard/documentation/navbar.html)
+17:27:50	Error: 	"Not Found" (404) at link https://htmlstream.com/front-dashboard/layouts/header-default-fluid.html.html (from https://htmlstream.com/front-dashboard/documentation/navbar.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 minutes 54 seconds : 663 links scanned, 646 files written (40500902 bytes overall) [38712284 bytes received at 40578 bytes/sec], 2505711 bytes transferred using HTTP compression in 57 files, ratio 19%, 8.9 requests per connection
+(14 errors, 0 warnings, 0 messages)
